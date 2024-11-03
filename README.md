@@ -1,0 +1,2 @@
+Esta API é um dos trabalhos realizados durante o componente curricular de programação de aplicativos. Trata-se de um sistema simples que organiza filmes em um banco de dados e pode realizar funções básicas, como a adição de filmes com seu nome e gênero, além de permitir a pesquisa, edição e exclusão de informações.
+Neste projeto, aprendemos a utilizar mais um modelo de conexão com o banco de dados e a criar e utilizar classes DAO. Foi uma ótima oportunidade para aprofundar nossos conhecimentos e desenvolver habilidades que serão úteis no futuro.
